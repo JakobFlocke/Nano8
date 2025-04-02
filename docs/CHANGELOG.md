@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Folder sstructure
 - Added README.md for every folder, describing it's basic purpose
 - Added an intruduction and the specs to the README
+- Created the fisrst CPU simulation
+- added registers and basic controls in simulation
 
 ## [0.0.1] - 2025-04-02
 
