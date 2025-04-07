@@ -21,7 +21,7 @@ The Computer aims to be as simple as possible while achiving a tolarable perform
 | Feature             | Specification                                           |
 |---------------------|---------------------------------------------------------|
 | **CPU**             | Nano 8 (8-bit, custom ISA)                              |
-| **BUS sized**       | 8-bit Data, 16-bit Address                              |
+| **BUS size**       | 8-bit Data, 16-bit Address                              |
 | **Clock Speed**     | 4 MHz - 150 MHz (depending on implementation)           |
 | **RAM**             | 24 KB - 1 MB (depending on version)                     |
 | **File Storage**    | >= 32 KB (depending on version)                         |
