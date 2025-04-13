@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/src/alu.vhd",
+  "InstLine" : 5,
+  "InstName" : "alu",
+  "ModuleFile" : "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/src/alu.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "alu"
+ }
+]

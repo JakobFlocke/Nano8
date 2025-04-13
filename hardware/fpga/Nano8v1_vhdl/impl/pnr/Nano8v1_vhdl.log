@@ -1,0 +1,29 @@
+Reading netlist file: "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/gwsynthesis/Nano8v1_vhdl.vg"
+Parsing netlist file "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/gwsynthesis/Nano8v1_vhdl.vg" completed
+Processing netlist completed
+Reading constraint file: "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/src/Nano8v1_vhdl.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/pnr/Nano8v1_vhdl.power.html" completed
+Generate file "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/pnr/Nano8v1_vhdl.pin.html" completed
+Generate file "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/pnr/Nano8v1_vhdl.rpt.html" completed
+Generate file "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/pnr/Nano8v1_vhdl.rpt.txt" completed
+Generate file "/home/jflocke/Documents/projects/Nano8/hardware/fpga/Nano8v1_vhdl/impl/pnr/Nano8v1_vhdl.tr.html" completed
+Sat Apr 12 10:23:47 2025
+
